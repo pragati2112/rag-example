@@ -1,7 +1,7 @@
 # Easy RAG 
 
 ### This is a basic RAG example with help of Langchain and Ollama. Using Streamlit (It turns data scripts into shareable web apps in minutes.)
-
+It is a Chat-pdf (simple question-answer chat), upload a pdf document and ask questions. Model will answer the questions in context of uploaded document.
 
 ## Setup
     - Clone the repository
